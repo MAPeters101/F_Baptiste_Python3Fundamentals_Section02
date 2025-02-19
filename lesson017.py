@@ -22,4 +22,11 @@ print('-'*30)
 
 
 
+print('Hello, World!')
+print(10 + 100)
+print('-'*30)
+
+from datetime import datetime
+current = datetime.utcnow()
+print(current)
 

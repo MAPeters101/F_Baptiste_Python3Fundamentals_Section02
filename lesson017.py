@@ -14,5 +14,12 @@ print('Done')
 print('-'*30)
 
 
+print('Demo 2')
+for i in range(5):
+    print(i)
+print('Done')
+print('-'*30)
+
+
 
 
